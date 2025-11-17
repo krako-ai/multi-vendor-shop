@@ -1,0 +1,1 @@
+export default function Vendors() { return (<div>Vendor List</div>); }
