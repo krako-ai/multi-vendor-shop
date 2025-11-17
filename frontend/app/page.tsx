@@ -1,0 +1,1 @@
+export default function Home() { return (<div>Welcome to the Multi-Vendor Shop!</div>); }
